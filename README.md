@@ -1,6 +1,5 @@
 # Currency Converter App
 
-![React Logo](https://placekitten.com/100/100) ![Vite Logo](https://placekitten.com/100/100) ![Tailwind CSS Logo](https://placekitten.com/100/100) ![Netlify Logo](https://placekitten.com/100/100)
 
 Currency Converter App is a web application developed using React, Vite, and Tailwind CSS. It allows users to convert currencies with ease, leveraging React hooks like `useState` and `useEffect`.
 
@@ -12,9 +11,9 @@ Currency Converter App is a web application developed using React, Vite, and Tai
 
 ## Technologies Used
 
-- ![React Logo](https://placekitten.com/50/50) **React:** A JavaScript library for building user interfaces.
-- ![Vite Logo](https://placekitten.com/50/50) **Vite:** A fast build tool that enhances the React development experience.
-- ![Tailwind CSS Logo](https://placekitten.com/50/50) **Tailwind CSS:** A utility-first CSS framework for rapidly building custom designs.
+ **React:** A JavaScript library for building user interfaces.
+ **Vite:** A fast build tool that enhances the React development experience.
+**Tailwind CSS:** A utility-first CSS framework for rapidly building custom designs.
   
 ## Demo
 
@@ -23,10 +22,20 @@ Check out the live demo of the Currency Converter App: [Currency Converter App D
 ## Installation
 
 To run the app locally, follow these steps:
-
-1. Clone the repository:
+ 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/currency-converter-app.git
+   git clone https://github.com/your-username/currency-converter-app.git```
 
+2)Navigate to the project directory:
+cd currency-converter-app
+
+
+3}Install dependencies:
+npm install
+
+
+4}Run the app:
+npm run dev
+   
 
